@@ -9,3 +9,11 @@ const sub = (a, b) => {
 const mult = (a, b) => {
 	return a * b;
 }
+
+const div = (num1, num2) => {
+	return num1 / num2;
+}
+
+const power = (num, power) => {
+	return num ** power;
+}
