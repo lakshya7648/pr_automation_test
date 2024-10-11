@@ -26,3 +26,7 @@ const sumOfArray = (..args) => {
 	
 	return sum = 0;
 }
+
+const greet = (name) => {
+	console.log(`Welcome, ${name}`);	
+}

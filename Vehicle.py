@@ -17,4 +17,4 @@ class Vehicle:
         return self.color
 
     def details(self):
-        return f'Vehicle of category {self.category} is of identity : Name = {self.name} & color = {self.color}'
+        return f'Vehicle of category {self.category} is of identity : Name = {self.name} & color = {self.color} is created'
