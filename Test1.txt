@@ -17,3 +17,12 @@ const div = (num1, num2) => {
 const power = (num, power) => {
 	return num ** power;
 }
+
+const sumOfArray = (..args) => {
+	let sum = 0;
+	for(let arg of args) {
+		sum += arg;
+	}
+	
+	return sum = 0;
+}
